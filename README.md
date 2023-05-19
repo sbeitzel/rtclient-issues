@@ -1,2 +1,2 @@
 # rtclient-issues
-Issues database for the various Relativiti clients
+[Issues database](https://github.com/sbeitzel/rtclient-issues/issues) for the various Relativiti clients
